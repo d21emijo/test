@@ -1,7 +1,6 @@
 name: G3 issue
 title: "laal:"
 description: issue
-label:
 body:
   - type: markdown
     attributes:
